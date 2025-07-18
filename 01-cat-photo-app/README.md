@@ -71,14 +71,10 @@ Este documento resume os principais conceitos de HTML aprendidos no módulo "Bui
 * **Elemento `<meta>`:** Usado para definir o comportamento do navegador.
     * `charset="utf-8"`: Informa ao navegador como codificar os caracteres da página.
     * É um elemento void.
-
+      
 ### Imagens do Sistema
 
-Aqui estão algumas imagens que ilustram o sistema CatPhotoApp:
+Aqui está um GIF que ilustra o sistema CatPhotoApp:
 
-* **Parte Superior da Aplicação:**
-    ![parte superior da aplicação](system_image1.png)
-* **Meio da Aplicação:**
-    ![meio da aplicação](system_image2.png)
-* **Formulário e Rodapé:**
-    ![formulário e rodapé](system_image3.png)
+* **Demonstração da Aplicação:**
+    ![Demonstração da aplicação CatPhotoApp](CatPhotoApp.gif)
