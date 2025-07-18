@@ -76,9 +76,9 @@ Este documento resume os principais conceitos de HTML aprendidos no módulo "Bui
 
 Aqui estão algumas imagens que ilustram o sistema CatPhotoApp:
 
-* **Visão Geral da Aplicação:**
+* **Parte Superior da Aplicação:**
     ![parte superior da aplicação](system_image1.png)
-* **Exemplo de Formulário:**
+* **Meio da Aplicação:**
     ![meio da aplicação](system_image2.png)
-* **Detalhe de Elementos HTML:**
+* **Formulário e Rodapé:**
     ![formulário e rodapé](system_image3.png)
