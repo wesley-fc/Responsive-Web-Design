@@ -197,8 +197,6 @@ a:active {
 │
 ├── index.html
 ├── styles.css
-└── imagens/
-    └── cafe.jpg
 ```
 
 ---
