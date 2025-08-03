@@ -1,7 +1,6 @@
-# Aprendizados de CSS — Projeto Menu de Café ☕
+# Aprendizados de CSS — Projeto CafeMenu (FreeCodeCamp) ☕
 
 Este documento contém os principais conceitos e práticas de CSS que aprendi durante a construção de um menu de café, baseado nos exercícios do FreeCodeCamp.
-
 ---
 
 ## 🧠 O que é CSS?
