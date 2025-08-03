@@ -14,8 +14,8 @@ Este projeto tem como objetivo documentar meu progresso, reforçar o aprendizado
 | Módulo | Descrição | Status |
 |--------|-----------|--------|
 | `01-cat-photo-app` | Learn HTML by Building a Cat Photo App | ✅ Concluído |
-| `02-cafe-menu` | Learn Basic CSS by Building a Cafe Menu | ⏳ Em andamento |
-| `03-color-markers` | Learn CSS Colors by Building a Set of Colored Markers | ⏳ Em breve |
+| `02-cafe-menu` | Learn Basic CSS by Building a Cafe Menu | ✅ Concluído |
+| `03-color-markers` | Learn CSS Colors by Building a Set of Colored Markers | ⏳ Em andamento |
 | `04-registration-form` | Learn HTML Forms by Building a Registration Form | ⏳ Em breve |
 | `05-survey-form` | Build a survey form to collect user data | ⏳ Em breve |
 | `06-rothko-painting` | Learn the CSS Box Model by Building a Rothko Painting | ⏳ Em breve |
